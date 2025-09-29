@@ -1,5 +1,5 @@
 ## lua-htmlgen
-### single file library for generating html in lua
+### single file module for generating html in lua
 
 ```
 local page = html {
@@ -30,3 +30,4 @@ local page = html {
 }
 
 ```
+
