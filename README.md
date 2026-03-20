@@ -1,7 +1,7 @@
 ## lua-htmlgen
 ### single file module for generating html in lua
 
-```
+```lua
 local page = html {
     head {
         title {
